@@ -7,4 +7,7 @@ A VR application built on Unreal Engine using the VR Expansion Plugin
 - Training targers 
 - Combat simulation
 
-[![Watch the video](https://i.stack.imgur.com/Vp2cE.png)](https://youtu.be/vt5fpE0bzSY)
+## Demo
+Watch the demo video: https://youtu.be/eoxzp6jfnw8
+
+[Watch the demo video](https://link-url-here.org)
