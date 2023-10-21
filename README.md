@@ -8,6 +8,4 @@ A VR application built on Unreal Engine using the VR Expansion Plugin
 - Combat simulation
 
 ## Demo
-Watch the demo video: https://youtu.be/eoxzp6jfnw8
-
-[Watch the demo video](https://link-url-here.org)
+[Watch the demo video](https://youtu.be/eoxzp6jfnw8)
